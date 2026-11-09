@@ -1,5 +1,6 @@
 # WarehouseRobot
-<img width="799" height="629" alt="Simulation" src="https://github.com/user-attachments/assets/da98c9c7-0f09-4215-b317-38a22ee8e624" />
+<img width="741" height="393" alt="Simulation" src="https://github.com/user-attachments/assets/4d47c1d1-df76-42d7-b9f4-5a87146e4ea1" />
+
 
 
 WarehouseRobot is a small reinforcement-learning project built to explore how a simple Deep Q-Network (DQN) agent learns to navigate a warehouse-like floor. The robot starts in a fixed corner of the room, scans its surroundings with a handful of forward-facing range sensors, and tries to reach a target dock while avoiding obstacles and walls.
